@@ -1,3 +1,5 @@
+# Basic project making http requests pulling data from an API of currently showing films and rendering these films into components for the user. / Projeto básico fazendo requisição http puxando dados de uma API de filmes em cartaz e renderizando estes filmes em componentes ao usuário.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
